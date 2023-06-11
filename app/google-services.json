@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742581447527",
+    "project_id": "fir-register-c8e3c",
+    "storage_bucket": "fir-register-c8e3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742581447527:android:2d7f9505945fdc97a89dc2",
+        "android_client_info": {
+          "package_name": "com.cookandroid.firebaseregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742581447527-a0og18spimnidmpsgtt9ju6qdmic3e9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA65BI4MeiNIPeQxq1CgLa4172a61JF1IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742581447527-a0og18spimnidmpsgtt9ju6qdmic3e9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
